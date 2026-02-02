@@ -1,3 +1,8 @@
+---
+name: accessibility-by-default
+description: Enforces accessibility as a baseline requirement in web development. Embeds WCAG 2.1/2.2 (AA) principles into agent decision-making for semantic HTML, keyboard navigation, screen reader compatibility, and inclusive design patterns.
+---
+
 # accessibility-by-default
 
 AI skill that enforces accessibility as a baseline requirement in web development, design, and UX decisions.
