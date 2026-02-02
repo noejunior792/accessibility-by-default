@@ -1,0 +1,40 @@
+{
+  "name": "accessibility-by-default",
+  "version": "1.0.0",
+  "author": "noejunior299",
+  "description": "Enforces accessibility as a baseline requirement in web development. Embeds WCAG 2.1/2.2 (AA) principles into agent decision-making for semantic HTML, keyboard navigation, screen reader compatibility, and inclusive design patterns.",
+  "tags": [
+    "accessibility",
+    "a11y",
+    "wcag",
+    "frontend",
+    "ui",
+    "ux",
+    "semantic-html",
+    "keyboard-navigation",
+    "screen-readers",
+    "aria",
+    "inclusive-design"
+  ],
+  "skillType": "mode",
+  "language": "en",
+  "compatibility": {
+    "skillsShVersion": ">=1.0.0"
+  },
+  "targets": [
+    "web-development",
+    "frontend-engineering",
+    "ui-components",
+    "design-systems"
+  ],
+  "scope": [
+    "html",
+    "css",
+    "javascript",
+    "typescript",
+    "react",
+    "vue",
+    "svelte",
+    "web-components"
+  ]
+}
